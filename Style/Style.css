@@ -1,0 +1,25 @@
+#li{
+    /* color: chartreuse; */
+}
+.sm{
+    background-color: aquamarine;
+    color: crimson;
+}
+.h3{
+    /* background-color: blueviolet; */
+}
+.p{
+    background-color: brown;
+}
+.x{
+    color: rgb(57, 0, 108);
+    font-size: 24px;
+}
+.s{
+    font-size: 35px;
+    /* text-align: left; */
+}
+.pic{
+    height: 400px;
+    width: 500px;
+}
